@@ -22,7 +22,7 @@ Suivi 3 : 07/02
 
 Suivi 4 : 15/02
 - Discussion autour des valeurs aberrantes et manquantes
-- Debut
+- Debut de discussion autour du fusionnement des bases de données
 
 Suivi 5 :  18/02
-
+- 
