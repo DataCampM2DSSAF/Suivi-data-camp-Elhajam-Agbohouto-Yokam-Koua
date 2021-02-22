@@ -8,7 +8,7 @@
 Suivi 1 :
 - Choix de la team
 - Choix du sujet
-- Statistiques descriptives (part 1)fef
+- Statistiques descriptives (part 1)
 
 
 Suivi 2 :
