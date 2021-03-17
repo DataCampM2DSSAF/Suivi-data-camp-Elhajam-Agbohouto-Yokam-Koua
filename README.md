@@ -1,27 +1,19 @@
+<h1 align="center"> ASHRAE - Great Energy Predictor III: How much energy will a building consume? </h1>
 
-# Suivi Data Camp Elhajam-Agbohouto-Yokam-Koua : ASHRAE - Great Energy Predictor III
-### How much energy will a building consume?
+> Réalisé par : Agbohouto Olivier - El hajam Nawal - Koua Jean-Charles - Yokam Muriel
 
+> Encadré par : Agathe GUILLOUX - Simon BUSSY
 
+### Plan 
 
-
-Suivi 1 :
-- Choix de la team
-- Choix du sujet
-- Statistiques descriptives (part 1)
-
-
-Suivi 2 :
-- Statistiques descriptives (part 2)
-- Pre-Processing
-
-
-Suivi 3 : 07/02
-- Discussion autour des questions liés au  travail effectué
-
-Suivi 4 : 15/02
-- Discussion autour des valeurs aberrantes et manquantes
-- Debut de discussion autour du fusionnement des bases de données
-
-Suivi 5 :  18/02
+- [Explication du projet]
+- [Explications du Github]
+- [Organisation du projet]
+- [Comment cloner le projet]
+- [Comment activer l'environnement virtuel]
 - 
+
+
+---
+
+
