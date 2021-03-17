@@ -6,7 +6,7 @@
 
 ### Plan 
 
-- [Explication du projet]
+- [Explication du projet](#ru)
 - [Explications du Github]
 - [Organisation du projet]
 - [Comment cloner le projet]
