@@ -1,1 +1,25 @@
+1ère partie: Analyse exploratoire des données
 
+ 1- Analyse et Visualisation des données **building_metadata**
+ 2- Analyse et Visualisation de la base de données **weather_train** 
+ 3- Analyse et Visualisation de la base de données météorologiques **weather_train**
+ 
+2ème partie: Fusion des bases des données
+
+3éme partie: Preprocessing (Création de nouvelles variables, encodage, traitement des valeurs manquantes, division en ensemble d'apprentissage et de test)
+
+ 1- Création de nouvelles variables à partir des variables météorologiques:
+ 2- Encodage des variables
+ 3- Traitement des valeurs manquantes
+ 4- subdivision de la base de données
+ 
+4ème partie: Modélisation (Apprentissage, prédiction et soumission)
+
+ 1- Modèle HistGradient Boost
+ 2- Modèle LightGradient Boost
+ 3- Modèle XGradient Boost
+ 4- Modèle Gradient Boosting
+ 5- Modèle Random forest
+ 6- Modèle CatBoost
+ 
+5ème partie: Choix du meilleur modèle et soumission finale
