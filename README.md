@@ -21,16 +21,16 @@ Pour atteindre l'objectif de ce projet, nous avons adopté le plan  d'analyse su
 Cette partie vise la prise en main des bases de données, leur assimilation à travers l'analyse de chacune des tables et la visualisation des données. Ceci permets aussi, de mieux saisir les objectifs et les différents modèles à mettre en oeuvre
 
 ## Fusion des diiférentes tables de données
-Plusieurs tables de données ont été fournies pour ce projet. Il faudra donc les fusionner afin d'obtenir une base de données générale comprenant toutes les informations pour chaque site et chaque bâtiment. Chaque table contient une clé primaire et une clé étrangère permettant la fusion.
-Les tables **_train** sont fusionnées entre elles pour constituer les données d'apprentissage.
+Plusieurs tables de données ont été fournies pour ce projet. Il faudra donc les fusionner afin d'obtenir une base de données générale comprenant toutes les informations pour chaque site et chaque bâtiment. Chaque table contient une clé primaire et une clé étrangère permettant la fusion.\\
+Les tables **_train** sont fusionnées entre elles pour constituer les données d'apprentissage.\\
 Les tables **_test** également sont fusionnées entre elles pour servir à la prédiction et la soumission.
 
 ## Traitement des données
 Cette partie vise à traiter les données par la gestion des valeurs manquantes, la gestion de valeurs aberrantes, l'encodage des variables, l'extraction de features, le preprocessing et la division de base en ensemble d'apprentissage d'évaluation
 
 ## Apprentissage, prédiction et soumission
-Plusieurs modèles ont été mis en oeuvre dans le cadre de ce projet. Entre autres, le gradient boosting, le RandomForest, le CatBoost, le XGBoost, le HistBoost, le LightGBM ou encore le DecisionTree. Les résultats obtenus pour chaque modèle ont été soumis en vue de leur comparaison.
-Pour chaque modèle, nous l'entrainons sur la base d'apprentissage obtenue lors de l'étape de traitement des données et l'évaluons sur les données d'évaluation.
+Plusieurs modèles ont été mis en oeuvre dans le cadre de ce projet. Entre autres, le gradient boosting, le RandomForest, le CatBoost, le XGBoost, le HistBoost, le LightGBM ou encore le DecisionTree. Les résultats obtenus pour chaque modèle ont été soumis en vue de leur comparaison.\\
+Pour chaque modèle, nous l'entrainons sur la base d'apprentissage obtenue lors de l'étape de traitement des données et l'évaluons sur les données d'évaluation.\\
 Le modèle obtenu est ensuite utilisé pour prédire les données de la base test. Cette prédiction est alors soumis pour obtenir le score.
 
 # Présentation du github
