@@ -35,9 +35,10 @@ Le modèle obtenu est ensuite utilisé pour prédire les données de la base tes
 
 # Présentation du github
 
-Ce github comprends un **readme**, un dossier **code** et un dossier **soumission**.
-Le dossier **Code** contient les différents notebooks de chacune des parties décrites précédemment.
-Le dossier **soumission** contient les scores obtenus après soumission pour les différents modèles implémentés. Pour chaque modèleplusieurs soumissions ont été réalisées puisque les modèles sont améliorées (feature engineering-recherche de meilleurs hyperparamètre) afin d'obtenir le score le minimum.
+Ce github comprends un **readme**, un dossier **code** et un dossier **soumission** et un dossier **Suivi**.\
+Le dossier **Code** contient les différents notebooks de chacune des parties décrites précédemment.\
+Le dossier **soumission** contient les scores obtenus après soumission pour les différents modèles implémentés. Pour chaque modèleplusieurs soumissions ont été réalisées puisque les modèles sont améliorées (feature engineering-recherche de meilleurs hyperparamètre) afin d'obtenir le score le minimum.\
+Le dossier **suivi** présente les travaux réalisés et leur évolution.
 
 # Organisation du travail
 
