@@ -43,4 +43,4 @@ Le dossier **suivi** présente les travaux réalisés et leur évolution.
 # Organisation du travail
 
 Notre groupe est composé de  quatre étudiants. Pour atteindre l'objectif de ce projet, le travail a été subdivisé avec des réunions hebdomadaires pour faire le point apprécier les travaux individuels et programmer les prochaines étapes. Chaque membre du groupe a analysé une des tables de données pour la partie analyse exploratoire et la visualisation des données. 
-Les parties **Fusion des différentes tables de données** et **traitement de données** sont été réalisées en commun. Chaque membre du groupe a à charge un ou plusieurs modèles à mettre en oeuvre pour la partie **Apprentissage, prédiction et soumission**.
+Les parties **Fusion des différentes tables de données** et **traitement de données** ont été réalisées en commun. Chaque membre du groupe a à charge un ou plusieurs modèles à mettre en oeuvre pour la partie **Apprentissage, prédiction et soumission**.
